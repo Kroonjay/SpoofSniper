@@ -1,0 +1,8 @@
+azure-functions
+azure-storage-blob
+azure-identity
+pydantic
+pytz
+pyodbc==4.0.30
+python-twitter==3.5
+requests
